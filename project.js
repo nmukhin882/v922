@@ -1,0 +1,1 @@
+define([], function( ) { return  JSON.stringify({"components":[{"Title":"mytext","Require":{"name":"mytext","proto":false,"path":"mytext"},"Markup":{"tag":"component-mytext"}}],"timestamp":"Thu Sep 22 2016 22:21:07 GMT-0500 (Central Daylight Time)"});});
